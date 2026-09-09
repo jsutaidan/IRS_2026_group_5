@@ -1,0 +1,2 @@
+[console_scripts]
+pinapple_gossip_bot = pa_warehouse_status.pinapple_gossip_bot:main
